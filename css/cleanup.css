@@ -1,1 +1,12 @@
 /* write your override styles here */
+.tag-1 {
+  background: url(../images/tag-1.png) no-repeat;
+  z-index: 2;
+ 
+}
+div {
+  width: 200px;
+  height: 200px;
+  display: block;
+  position: relative;
+}
